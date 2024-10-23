@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Fea/static/css/main.65fbe2ef.css",
+    "main.js": "/Fea/static/js/main.5c9f3bb1.js",
+    "static/js/453.17211476.chunk.js": "/Fea/static/js/453.17211476.chunk.js",
+    "static/media/future.webp": "/Fea/static/media/future.ac5d797d65110207af80.webp",
+    "static/media/learn.jpg": "/Fea/static/media/learn.10f46c7ddcecb3d80b7f.jpg",
+    "static/media/communication skills.jpg": "/Fea/static/media/communication skills.dec4b19ab6f2396476af.jpg",
+    "static/media/english.jpg": "/Fea/static/media/english.8d2a73a69f3b200fa54c.jpg",
+    "static/media/funlearn.jpg": "/Fea/static/media/funlearn.2009d58b4689c2b4c4c7.jpg",
+    "static/media/firstChart.jpg": "/Fea/static/media/firstChart.5a46afc335fffb9f11e2.jpg",
+    "static/media/newWay.jpg": "/Fea/static/media/newWay.aaf56c2c628c51c99ceb.jpg",
+    "static/media/skillNeed.avif": "/Fea/static/media/skillNeed.1a0a5bf442a975b876c6.avif",
+    "index.html": "/Fea/index.html",
+    "main.65fbe2ef.css.map": "/Fea/static/css/main.65fbe2ef.css.map",
+    "main.5c9f3bb1.js.map": "/Fea/static/js/main.5c9f3bb1.js.map",
+    "453.17211476.chunk.js.map": "/Fea/static/js/453.17211476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fbe2ef.css",
+    "static/js/main.5c9f3bb1.js"
+  ]
+}
